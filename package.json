@@ -12,7 +12,7 @@
     "react-scripts": "3.3.1",
     "reactstrap": "^8.4.1"
   },
-  "homepage": "https://wentaiouyang.github.io/PortfolioPage/",
+  "homepage": "https://wentaiouyang.github.io/React-Booklist-DEMO/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
